@@ -1,0 +1,23 @@
+.slick-arrow.slick-prev::before{
+color: rgb(48, 93, 217);
+ }
+ .slick-arrow.slick-next::before{
+color: rgb(48, 93, 217) }
+
+ .sliderCard{
+    height: 30rem;
+    background-color: rgb(191, 230, 255);
+    transition: all 0.3s;
+    cursor: pointer;
+    
+    &:hover{
+      transform:  scale(1.1);
+      transition: all 0.3s;
+    }
+ }
+ .card-img-top{
+   height: 18rem;
+ }
+ .cards{
+   height: 43rem;
+ }

@@ -1,0 +1,13 @@
+.card-img-top2{
+    height: 65vh;
+    width: 50vw ;
+    border-radius: 4%;
+}
+.details{
+    background-color: rgb(221, 252, 202);
+    border-radius: 4%;
+}
+.cardTitle{
+    font-size: larger;
+    color: rgb(48, 93, 217);  
+}

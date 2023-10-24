@@ -1,0 +1,10 @@
+.nav{
+    padding: .5rem;
+    color:rgb(26, 20, 107);
+    text-decoration: none;
+}
+.active{
+    color: rgb(58, 153, 95);
+    background-color: rgb(222, 250, 187);
+    border-radius: 20%;
+}
